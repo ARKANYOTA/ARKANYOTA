@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[<img src="Images/youtube.svg" alt="drawing" width="30px"/>](https://www.youtube.com/channel/UC44p7IFHS8WK7CF3zSv38QA/)
+[<img src="Images/github.svg" alt="drawing" width="30px"/>](http://https://github.com/ARKANYOTA/)
+[<img src="Images/email.svg" alt="drawing" width="30px"/>](mailto:cnolan@hotmail.fr)
+[<img src="Images/github.svg" alt="drawing" width="30px"/>](http://https://github.com/ARKANYOTA/)
+
 <!--
 **ARKANYOTA/ARKANYOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
