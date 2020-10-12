@@ -15,6 +15,7 @@
 [<img src="Images/email.svg" alt="drawing" width="30px"/>](mailto:arkanyota@icloud.com)
 [<img src="Images/gmail.svg" alt="drawing" width="30px"/>](mailto:lesarktime@gmail.com)
 [<img src="Images/itch_io.svg" alt="drawing" width="30px"/>](https://arkanyota.itch.io/)
+[<img src="Images/twitch.svg" alt="drawing" width="30px"/>](https://www.twitch.tv/arkanyota)
 
 ### Language used: 
 <img src="Images/python.svg" alt="drawing" width="30px"/> <img src="Images/javascript.svg" alt="drawing" width="30px"/> <img src="Images/github.svg" alt="drawing" width="30px"/> <img src="Images/html5.svg" alt="drawing" width="30px"/> <img src="Images/markdown.svg" alt="drawing" width="30px"/>
