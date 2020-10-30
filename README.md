@@ -1,4 +1,4 @@
-## Hi there ,I'm ArkanYota 👋
+## Hi there, I'm ArkanYota 👋
 
 ### I'm a French Student Developer. 
 - 🇫🇷 I’m speak French
