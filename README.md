@@ -26,6 +26,7 @@
 ### Projects:
 - ArkanYotaGame : Jeu sur invite de commande en Python
 - Chaser of Dawn : Jeu pour la game Jam Ludum Dare 47 en Pico 8
+- Jeu de la vie en plugin Minecraft :
 <!--
 **ARKANYOTA/ARKANYOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
