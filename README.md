@@ -26,7 +26,9 @@
 ### Projects:
 - ArkanYotaGame : Jeu sur invite de commande en Python
 - Chaser of Dawn : Jeu pour la game Jam Ludum Dare 47 en Pico 8
-
+  - https://ldjam.com/events/ludum-dare/47/chaser-of-dawn
+- Anchors & Miners : Jeu pour la game Jam Ludum Dare 48 en Pico 8
+  - https://ldjam.com/events/ludum-dare/48/anchors-miners
 ### Need a job:
 - if you need a beginner, you can contact me. 
 
