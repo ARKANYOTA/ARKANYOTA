@@ -24,6 +24,8 @@
 <img src="Images/minecraft.svg" alt="drawing" width="30px"/>
 
 ### Projects:
+- dotfiles : Fichier config linux
+  - https://github.com/ARKANYOTA/dotfiles
 - ArkanYotaGame : Jeu sur invite de commande en Python
   - https://pypi.org/project/ArkanYotaGame/
 - Chaser of Dawn : Jeu pour la game Jam Ludum Dare 47 en Pico 8
