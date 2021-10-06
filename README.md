@@ -35,7 +35,7 @@
 - Omega : Un fork de Omega(menu pour changer la couleur de la led)
   - https://github.com/ARKANYOTA/Omega
   - https://github.com/Omega-Numworks/Omega
-- Messy-Pipy : Plein de petit programes en python(ou autres) pour atteindre les 67k lignes
+- Messy-Pypi : Plein de petit programes en python(ou autres) pour atteindre les 67k lignes
   - https://github.com/Maxim-Costa/messy-pypi
 - Chaser of Dawn : Jeu pour la game Jam Ludum Dare 47 en Pico 8
   - https://ldjam.com/events/ludum-dare/47/chaser-of-dawn
