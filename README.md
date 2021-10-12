@@ -19,7 +19,7 @@
 
 ### Language used: 
 <img src="Images/python.svg" alt="drawing" width="30px"/> <img src="Images/javascript.svg" alt="drawing" width="30px"/> <img src="Images/github.svg" alt="drawing" width="30px"/> <img src="Images/html5.svg" alt="drawing" width="30px"/> <img src="Images/markdown.svg" alt="drawing" width="30px"/> <img src="Images/pico8.2.svg" alt="drawing" width="30px"/>
-Et Love
+Et Löve
 
 ### Games played:
 <img src="Images/minecraft.svg" alt="drawing" width="30px"/>
