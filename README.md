@@ -1,7 +1,7 @@
 ## Hi there, I'm ArkanYota 👋
 
 ### I'm a French Student Developer. 
-- 🇫🇷 I’m speak French
+- 🇫🇷 Lang: French
 - 📫 Contact on Discord: arkanyota#3321
 
 ### How contact me: 
