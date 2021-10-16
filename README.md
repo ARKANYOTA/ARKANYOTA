@@ -48,7 +48,3 @@ Et Löve
 
 ### Need a job:
 - if you need a beginner, you can contact me. 
-
-TODO: 
-- Refaire cette page.
-- Faire le site arkanyota.github.io
