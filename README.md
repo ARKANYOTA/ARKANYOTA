@@ -4,7 +4,7 @@
 - 🇫🇷 Lang: French
 - 📫 Contact on Discord: arkanyota#3321
 
-### How contact me: 
+### How to contact me: 
 
 [<img src="Images/github.svg" alt="drawing" width="30px"/>](http://github.com/ARKANYOTA/)
 [<img src="Images/safari.svg" alt="drawing" width="30px"/>](http://arkan-yota.github.io/)
