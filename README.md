@@ -1,8 +1,8 @@
 ## Hi there, I'm ArkanYota 👋
 
 ### I'm a French Student Developer. 
-- 🇫🇷 Lang: French
-- 📫 Contact on Discord: arkanyota#3321
+- 🇫Lang: French
+- 📫Contact on Discord: arkanyota#3321
 
 ### How to contact me: 
 
@@ -45,6 +45,3 @@ Et Löve
 - OctoBoom : Jeu pour la game Jam Ludum Dare 49 en Löve
   - https://ldjam.com/events/ludum-dare/49/octoboom
   - https://github.com/ARKANYOTA/ludumdare49
-
-### Need a job:
-- if you need a beginner, you can contact me. 
