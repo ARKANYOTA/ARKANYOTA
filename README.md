@@ -47,4 +47,5 @@ Et Löve
   - https://github.com/ARKANYOTA/ludumdare49
 
 Make Achievements:
-    - Test 1: PairExtraordinaire x2 Bronze
+- Test 1: PairExtraordinaire x2 Bronze
+- Test 2: PairExtraordinaire x2 Bronze
