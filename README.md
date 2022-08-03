@@ -45,3 +45,6 @@ Et Löve
 - OctoBoom : Jeu pour la game Jam Ludum Dare 49 en Löve
   - https://ldjam.com/events/ludum-dare/49/octoboom
   - https://github.com/ARKANYOTA/ludumdare49
+
+Make Achievements:
+    - Test 1: PairExtraordinaire x2 Bronze
