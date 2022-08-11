@@ -4,6 +4,8 @@
 - 🇫Lang: French
 - 📫Contact on Discord: arkanyota#3321
 
+### My site: https://arkanyota.github.io/
+
 ### How to contact me: 
 
 [<img src="Images/github.svg" alt="drawing" width="30px"/>](http://github.com/ARKANYOTA/)
@@ -18,8 +20,7 @@
 [<img src="Images/twitch.svg" alt="drawing" width="30px"/>](https://www.twitch.tv/arkanyota)
 
 ### Language used: 
-<img src="Images/python.svg" alt="drawing" width="30px"/> <img src="Images/javascript.svg" alt="drawing" width="30px"/> <img src="Images/github.svg" alt="drawing" width="30px"/> <img src="Images/html5.svg" alt="drawing" width="30px"/> <img src="Images/markdown.svg" alt="drawing" width="30px"/> <img src="Images/pico8.2.svg" alt="drawing" width="30px"/>
-Et Löve
+<img src="Images/python.svg" alt="drawing" width="30px"/> <img src="Images/javascript.svg" alt="drawing" width="30px"/> <img src="Images/github.svg" alt="drawing" width="30px"/>
 
 ### Projects:
 - Chaser of Dawn : Jeu pour la game Jam Ludum Dare 47 en Pico 8
