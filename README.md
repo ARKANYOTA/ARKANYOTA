@@ -20,7 +20,8 @@
 [<img src="Images/twitch.svg" alt="drawing" width="30px"/>](https://www.twitch.tv/arkanyota)
 
 ### Language used: 
-<img src="Images/python.svg" alt="drawing" width="30px"/> <img src="Images/javascript.svg" alt="drawing" width="30px"/> <img src="Images/github.svg" alt="drawing" width="30px"/>
+<img src="Images/python.svg" alt="drawing" width="30px"/> <img src="Images/javascript.svg" alt="drawing" width="30px"/> <img src="Images/github.svg" alt="drawing" width="30px"/> <img src="https://user-images.githubusercontent.com/38374187/184463811-0ef2b9c3-a7e3-441d-b41d-7ee609aecb1f.svg" alt="drawing" width="30px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/OCaml_Logo.svg" alt="drawing" width="30px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="drawing" width="30px"/> 
+
 
 ### Projects:
 - Chaser of Dawn : Jeu pour la game Jam Ludum Dare 47 en Pico 8
