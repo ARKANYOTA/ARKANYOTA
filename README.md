@@ -6,6 +6,10 @@
 
 ### My site: https://arkanyota.github.io/
 
+### Stats
+
+![My stats](https://github-readme-stats.vercel.app/api?username=arkanyota&show_icons=true)
+
 ### How to contact me: 
 
 [<img src="Images/github.svg" alt="drawing" width="30px"/>](http://github.com/ARKANYOTA/)
