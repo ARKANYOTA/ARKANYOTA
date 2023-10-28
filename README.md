@@ -1,19 +1,15 @@
-## Hi there, I'm ArkanYota 👋
-
-### I'm a French Student Developer. 
-- 🇫Lang: French
-- 📫Contact on Discord: arkanyota#3321
-
-### My site: https://arkanyota.github.io/
-
-### Stats
-
-![My stats](https://github-readme-stats.vercel.app/api?username=arkanyota&show_icons=true)
-
-### How to contact me: 
-
+## Salut, je suis ArkanYota 👋  
+  
+### Je suis un développeur et étudiant français.  
+- Langue : Français  
+- Contact sur Discord : arkanyota#3321  
+  
+### Mon site : **https://arkanyota.github.io**
+  
+### Comment me contacter :  
+  
 [<img src="Images/github.svg" alt="drawing" width="30px"/>](http://github.com/ARKANYOTA/)
-[<img src="Images/safari.svg" alt="drawing" width="30px"/>](http://arkan-yota.github.io/)
+[<img src="Images/safari.svg" alt="drawing" width="30px"/>](http://arkanyota.github.io/)
 <img src="Images/discord.svg" alt="drawing" width="30px"/>
 [<img src="Images/youtube.svg" alt="drawing" width="30px"/>](https://www.youtube.com/channel/UC44p7IFHS8WK7CF3zSv38QA/)
 [<img src="Images/instagram.svg" alt="drawing" width="30px"/>](http://www.instagram.com/arkanyota/)
@@ -22,24 +18,36 @@
 [<img src="Images/gmail.svg" alt="drawing" width="30px"/>](mailto:lesarktime@gmail.com)
 [<img src="Images/itch_io.svg" alt="drawing" width="30px"/>](https://arkanyota.itch.io/)
 [<img src="Images/twitch.svg" alt="drawing" width="30px"/>](https://www.twitch.tv/arkanyota)
+  
+### Langages utilisés (et éditeurs):  
+[![My Skills](https://skillicons.dev/icons?i=py,c,ocaml,cpp,blender,md,html,css,js,latex,regex,sqlite,bash)](https://arkanyota.github.io)
+[![My Editors](https://skillicons.dev/icons?i=linux,vim,idea,git,github,discord)](https://arkanyota.github.io)
 
-### Language used: 
-<img src="Images/python.svg" alt="drawing" width="30px"/> <img src="Images/javascript.svg" alt="drawing" width="30px"/> <img src="Images/github.svg" alt="drawing" width="30px"/> <img src="https://user-images.githubusercontent.com/38374187/184463811-0ef2b9c3-a7e3-441d-b41d-7ee609aecb1f.svg" alt="drawing" width="30px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/OCaml_Logo.svg" alt="drawing" width="30px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="drawing" width="30px"/> 
-
-
-### Projects:
-- Chaser of Dawn : Jeu pour la game Jam Ludum Dare 47 en Pico 8
-  - https://ldjam.com/events/ludum-dare/47/chaser-of-dawn
-- Anchors & Miners : Jeu pour la game Jam Ludum Dare 48 en Pico 8
-  - https://ldjam.com/events/ludum-dare/48/anchors-miners
-- OctoBoom : Jeu pour la game Jam Ludum Dare 49 en Löve
-  - https://ldjam.com/events/ludum-dare/49/octoboom
-  - https://github.com/ARKANYOTA/ludumdare49
-- Cours2022Git : Mes cours au lycée
-  - https://github.com/ARKANYOTA/Cours2022Git
-- CoursEditor : Application qui permet de gérer les cours avec le terminal.
-  - https://github.com/ARKANYOTA/CoursEditor
-- ArkanYotaGame : Jeu sur invite de commande en Python
-  - https://pypi.org/project/ArkanYotaGame/
-- Omega : Un fork de Omega(menu pour changer la couleur de la led)
+### Projets :  
+- **Chaser of Dawn** : Jeu pour la game Jam Ludum Dare 47 en Pico 8  
+  - https://ldjam.com/events/ludum-dare/47/chaser-of-dawn  
+- **Anchors & Miners** : Jeu pour la game Jam Ludum Dare 48 en Pico 8  
+  - https://ldjam.com/events/ludum-dare/48/anchors-miners  
+- **OctoBoom** : Jeu pour la game Jam Ludum Dare 49 en Löve  
+  - https://ldjam.com/events/ludum-dare/49/octoboom  
+  - https://github.com/ARKANYOTA/ludumdare49  
+- **Fr Grid Clock** : (Fork) L'heure affichée avec du texte sous la forme d'une grille  
+  - https://github.com/ARKANYOTA/fr-grid-clock-screensaver   
+- **ArkanYotaGame** : Jeu en ligne de commande en Python (projet abandonné)  
+  - https://pypi.org/project/ArkanYotaGame/  
+- **Omega** : Un fork de Omega (menu pour changer la couleur de la led)  
   - https://github.com/ARKANYOTA/Omega
+ 
+
+### Autres
+<div align="left">
+  <a href="https://github.com/ARKANYOTA?tab=overview&from=2042-12-01&to=2042-12-31" target="_blank">
+    <img src="https://github.com/MaximCosta/MaximCosta/blob/main/assets/42.png" width="52" alt="42 logo"  />
+  </a>
+  <a href="https://github.com/MaximCosta" target="_blank">
+    <img src="https://github.com/MaximCosta/MaximCosta/blob/main/assets/friends.png" width="52" alt="friends logo"  />
+  </a>
+    <a href="https://github.com/torvalds?achievement=pair-extraordinaire&tab=achievements" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" width="52" alt="friends logo"  />
+  </a>
+</div>
