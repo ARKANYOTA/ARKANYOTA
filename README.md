@@ -32,7 +32,9 @@
   - https://ldjam.com/events/ludum-dare/49/octoboom  
   - https://github.com/ARKANYOTA/ludumdare49  
 - **Fr Grid Clock** : (Fork) L'heure affichée avec du texte sous la forme d'une grille  
-  - https://github.com/ARKANYOTA/fr-grid-clock-screensaver   
+  - https://github.com/ARKANYOTA/fr-grid-clock-screensaver
+- **Venal** : Vlc player on terminal  
+  - https://github.com/ARKANYOTA/venal  
 - **ArkanYotaGame** : Jeu en ligne de commande en Python (projet abandonné)  
   - https://pypi.org/project/ArkanYotaGame/  
 - **Omega** : Un fork de Omega (menu pour changer la couleur de la led)  
