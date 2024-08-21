@@ -26,6 +26,9 @@
 ### Projets :  
 - **Chaser of Dawn** : Jeu pour la game Jam Ludum Dare 47 en Pico 8  
   - https://ldjam.com/events/ludum-dare/47/chaser-of-dawn  
+- **Globs** : Jeu pour la game Jam GMTK 2024  
+  - https://yolwoocle.itch.io/globs
+  - https://github.com/ARKANYOTA/gmtk2024  
 - **Anchors & Miners** : Jeu pour la game Jam Ludum Dare 48 en Pico 8  
   - https://ldjam.com/events/ludum-dare/48/anchors-miners  
 - **OctoBoom** : Jeu pour la game Jam Ludum Dare 49 en Löve  
