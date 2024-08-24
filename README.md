@@ -21,7 +21,7 @@
   
 ### Langages utilisés (et éditeurs):  
 [![My Skills](https://skillicons.dev/icons?i=py,c,ocaml,cpp,blender,md,html,css,js,latex,regex,sqlite,bash)](https://arkanyota.github.io)
-[![My Editors](https://skillicons.dev/icons?i=linux,vim,idea,git,github,discord)](https://arkanyota.github.io)
+[![My Editors](https://skillicons.dev/icons?i=linux,vim,idea,git,github,discord,godot)](https://arkanyota.github.io)
 
 ### Projets :  
 - **Chaser of Dawn** : Jeu pour la game Jam Ludum Dare 47 en Pico 8  
