@@ -2,9 +2,9 @@
   
 ### Je suis un développeur et étudiant français.  
 - Langue : Français
-- Contact sur Discord : arkanyota
+- Contact sur Discord : [arkanyota](https://discord.com/users/315241140464910349)
 - Contact sur Mail: [arkanyota@icloud.com](mailto:arkanyota@icloud.com)
-- Ecole : ENSEEIHT
+- Ecole : [ENSEEIHT](https://enseeiht.fr)
 
   
 ### Mon site : **https://arkanyota.github.io**
