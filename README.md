@@ -1,8 +1,11 @@
 ## Salut, je suis ArkanYota 👋  
   
 ### Je suis un développeur et étudiant français.  
-- Langue : Français  
-- Contact sur Discord : arkanyota#3321  
+- Langue : Français
+- Contact sur Discord : arkanyota
+- Contact sur Mail: [arkanyota@icloud.com](mailto:arkanyota@icloud.com)
+- Ecole : ENSEEIHT
+
   
 ### Mon site : **https://arkanyota.github.io**
   
@@ -24,11 +27,11 @@
 [![My Editors](https://skillicons.dev/icons?i=linux,vim,idea,git,github,discord,godot)](https://arkanyota.github.io)
 
 ### Projets :  
-- **Chaser of Dawn** : Jeu pour la game Jam Ludum Dare 47 en Pico 8  
-  - https://ldjam.com/events/ludum-dare/47/chaser-of-dawn  
 - **Globs** : Jeu pour la game Jam GMTK 2024  
   - https://yolwoocle.itch.io/globs
   - https://github.com/ARKANYOTA/gmtk2024  
+- **Chaser of Dawn** : Jeu pour la game Jam Ludum Dare 47 en Pico 8  
+  - https://ldjam.com/events/ludum-dare/47/chaser-of-dawn  
 - **Anchors & Miners** : Jeu pour la game Jam Ludum Dare 48 en Pico 8  
   - https://ldjam.com/events/ludum-dare/48/anchors-miners  
 - **OctoBoom** : Jeu pour la game Jam Ludum Dare 49 en Löve  
