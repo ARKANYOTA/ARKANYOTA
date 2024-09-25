@@ -64,6 +64,8 @@
 - **Doomineur**: Faire un démineur à la Doom (projet abandonné, c'est un raycasting)
   - https://github.com/PouletRaPHOO/Doomineur
 
+[](https://github.com/ARKANYOTA/Des_mineurs)
+[](https://github.com/ARKANYOTA/NSIMorpion)
 
 ### Autres
 <div align="left">
