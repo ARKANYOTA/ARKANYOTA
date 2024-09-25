@@ -59,7 +59,11 @@
   - https://github.com/ARKANYOTA/Omega
 - **Clavier Morse Arduino**: Un clavier à un seul bouton pour écrire du morse sur Arduino
   - https://github.com/ARKANYOTA/ArduinoMorseKeyboard
- 
+- **Proof Tree Ocaml**: Faire des arbres de dérivations, et les rendre en LaTeX.
+  - https://github.com/ARKANYOTA/ProofTreeOcaml
+- **Doomineur**: Faire un démineur à la Doom (projet abandonné, c'est un raycasting)
+  - https://github.com/PouletRaPHOO/Doomineur
+
 
 ### Autres
 <div align="left">
