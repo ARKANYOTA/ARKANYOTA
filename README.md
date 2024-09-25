@@ -36,7 +36,9 @@
   - https://ldjam.com/events/ludum-dare/48/anchors-miners  
 - **OctoBoom** : Jeu pour la game Jam Ludum Dare 49 en Löve  
   - https://ldjam.com/events/ludum-dare/49/octoboom  
-  - https://github.com/ARKANYOTA/ludumdare49  
+  - https://github.com/ARKANYOTA/ludumdare49
+- **ASM Minesweeper** : Un jeu de démineur réalisé en Assembleur x86-64  
+  - https://github.com/ARKANYOTA/ASM-Minesweeper  
 - **Fr Grid Clock** : (Fork) L'heure affichée avec du texte sous la forme d'une grille  
   - https://github.com/ARKANYOTA/fr-grid-clock-screensaver
 - **Venal** : Vlc player on terminal  
