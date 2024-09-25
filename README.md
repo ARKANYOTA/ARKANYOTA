@@ -57,6 +57,8 @@
   - https://pypi.org/project/ArkanYotaGame/  
 - **Omega** : Un fork de Omega (menu pour changer la couleur de la led)  
   - https://github.com/ARKANYOTA/Omega
+- **Clavier Morse Arduino**: Un clavier à un seul bouton pour écrire du morse sur Arduino
+  - https://github.com/ARKANYOTA/ArduinoMorseKeyboard
  
 
 ### Autres
