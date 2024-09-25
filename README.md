@@ -38,7 +38,17 @@
   - https://ldjam.com/events/ludum-dare/49/octoboom  
   - https://github.com/ARKANYOTA/ludumdare49
 - **ASM Minesweeper** : Un jeu de démineur réalisé en Assembleur x86-64  
-  - https://github.com/ARKANYOTA/ASM-Minesweeper  
+  - https://github.com/ARKANYOTA/ASM-Minesweeper
+- **GitHub Achievement Validator**:
+  - **Galaxy Brain**: Valide l'achievement Galaxy Brain en utilisant 2 comptes Github
+    - https://github.com/ARKANYOTA/GalaxyBrainValidator
+  - **DrawOnGithubActivity**: Permet de dessiner sur le graphe des activités de Github a partir d'une image
+    - https://github.com/ARKANYOTA/DrawOnGithubActivity
+  - **Coauthored**: Valide l'achievement Coauthored
+    - https://github.com/ARKANYOTA/CoauthoredValidator
+- **RayMarchingC**: Un Ray Marching écrit en C
+  - https://github.com/ARKANYOTA/RayMarchingC
+- **Doomineur**: (projet abandonné)
 - **Fr Grid Clock** : (Fork) L'heure affichée avec du texte sous la forme d'une grille  
   - https://github.com/ARKANYOTA/fr-grid-clock-screensaver
 - **Venal** : Vlc player on terminal  
