@@ -55,8 +55,8 @@
 [](https://github.com/ARKANYOTA/NSIMorpion)
 
 ### Write-Ups:
-- Le [404ctf](https://www.404ctf.fr), arrivé 130e sur 2 460 au classement avec 18 859 points, sur la 1re édition, et arrivé 185e sur 2 335 au classement avec 8 732 points, sur la 2e édition.
-- Le CTF de la conférence de l'Open Cycom Montpellier 2023, où on est arrivé 2eme avec mon équipe sur 25 team, avec 2 920 points.
+- Le [404ctf](https://www.404ctf.fr), arrivé 130e sur 2 460 sur la 1re édition, et arrivé 185e sur 2 335 sur la 2e édition.
+- Le CTF de la conférence de l'Open Cycom Montpellier 2023, arrivé 2eme avec mon équipe sur 25 équipes.
 
 [Write-Ups: ICI](https://github.com/ARKANYOTA/write-ups)
 
