@@ -48,7 +48,6 @@
     - https://github.com/ARKANYOTA/CoauthoredValidator
 - **RayMarchingC**: Un Ray Marching écrit en C
   - https://github.com/ARKANYOTA/RayMarchingC
-- **Doomineur**: (projet abandonné)
 - **Fr Grid Clock** : (Fork) L'heure affichée avec du texte sous la forme d'une grille  
   - https://github.com/ARKANYOTA/fr-grid-clock-screensaver
 - **Venal** : Vlc player on terminal  
@@ -64,8 +63,15 @@
 - **Doomineur**: Faire un démineur à la Doom (projet abandonné, c'est un raycasting)
   - https://github.com/PouletRaPHOO/Doomineur
 
+
 [](https://github.com/ARKANYOTA/Des_mineurs)
 [](https://github.com/ARKANYOTA/NSIMorpion)
+
+### Write-Ups:
+- Le [404ctf](https://www.404ctf.fr), arrivé 130e sur 2 460 au classement avec 18 859 points, sur la 1re édition, et arrivé 185e sur 2 335 au classement avec 8 732 points, sur la 2e édition.
+- Le CTF de la conférence de l'Open Cycom Montpellier 2023, où on est arrivé 2eme avec mon équipe sur 25 team, avec 2 920 points.
+
+[Write-Ups: ICI](https://github.com/ARKANYOTA/write-ups)
 
 ### Autres
 <div align="left">
