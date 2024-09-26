@@ -6,7 +6,7 @@
 - Contact sur Mail: [arkanyota@icloud.com](mailto:arkanyota@icloud.com)
 - Ecole : [ENSEEIHT](https://enseeiht.fr)
 
-  
+
 ### Mon site : **https://arkanyota.github.io**
   
 ### Comment me contacter :  
@@ -27,9 +27,7 @@
 [![My Editors](https://skillicons.dev/icons?i=linux,vim,idea,git,github,discord,godot)](https://arkanyota.github.io)
 
 ### Projets :  
-- **Globs** : Jeu pour la game Jam GMTK 2024  
-  - https://yolwoocle.itch.io/globs
-  - https://github.com/ARKANYOTA/gmtk2024  
+- **Globs** [<img src="https://cdn.simpleicons.org/itchdotio?viewbox=auto" alt="itchio" width="20px"/>](https://yolwoocle.itch.io/globs) [<img src="https://cdn.simpleicons.org/github?viewbox=auto" alt="itchio" width="20px"/>](https://github.com/ARKANYOTA/gmtk2024) : Jeu pour la game Jam GMTK 2024  
 - **Chaser of Dawn** : Jeu pour la game Jam Ludum Dare 47 en Pico 8  
   - https://ldjam.com/events/ludum-dare/47/chaser-of-dawn  
 - **Anchors & Miners** : Jeu pour la game Jam Ludum Dare 48 en Pico 8  
