@@ -6,7 +6,6 @@
 - Contact sur Mail: [arkanyota@icloud.com](mailto:arkanyota@icloud.com)
 - Ecole : [ENSEEIHT](https://enseeiht.fr)
 
-
 ### Mon site : **https://arkanyota.github.io**
   
 ### Comment me contacter :  
@@ -27,40 +26,29 @@
 [![My Editors](https://skillicons.dev/icons?i=linux,vim,idea,git,github,discord,godot)](https://arkanyota.github.io)
 
 ### Projets :  
-- **Globs** [<img src="https://cdn.simpleicons.org/itchdotio?viewbox=auto" alt="itchio" width="20px"/>](https://yolwoocle.itch.io/globs) [<img src="https://cdn.simpleicons.org/github?viewbox=auto" alt="itchio" width="20px"/>](https://github.com/ARKANYOTA/gmtk2024) : Jeu pour la game Jam GMTK 2024  
+- **Globs** [<img width="18" alt="itchio" src="https://cdn.simpleicons.org/itchdotio/_/_"/>](https://yolwoocle.itch.io/globs) [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />
+](https://github.com/ARKANYOTA/gmtk2024) : Jeu pour la game Jam GMTK 2024  
 - **Chaser of Dawn** : Jeu pour la game Jam Ludum Dare 47 en Pico 8  
   - https://ldjam.com/events/ludum-dare/47/chaser-of-dawn  
 - **Anchors & Miners** : Jeu pour la game Jam Ludum Dare 48 en Pico 8  
   - https://ldjam.com/events/ludum-dare/48/anchors-miners  
-- **OctoBoom** : Jeu pour la game Jam Ludum Dare 49 en Löve  
+- **OctoBoom** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ludumdare49): Jeu pour la game Jam Ludum Dare 49 en Löve  
   - https://ldjam.com/events/ludum-dare/49/octoboom  
-  - https://github.com/ARKANYOTA/ludumdare49
-- **ASM Minesweeper** : Un jeu de démineur réalisé en Assembleur x86-64  
-  - https://github.com/ARKANYOTA/ASM-Minesweeper
+- **ASM Minesweeper** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ASM-Minesweeper): Un jeu de démineur réalisé en Assembleur x86-64  
 - **GitHub Achievement Validator**:
-  - **Galaxy Brain**: Valide l'achievement Galaxy Brain en utilisant 2 comptes Github
-    - https://github.com/ARKANYOTA/GalaxyBrainValidator
-  - **DrawOnGithubActivity**: Permet de dessiner sur le graphe des activités de Github a partir d'une image
-    - https://github.com/ARKANYOTA/DrawOnGithubActivity
-  - **Coauthored**: Valide l'achievement Coauthored
-    - https://github.com/ARKANYOTA/CoauthoredValidator
-- **RayMarchingC**: Un Ray Marching écrit en C
-  - https://github.com/ARKANYOTA/RayMarchingC
-- **Fr Grid Clock** : (Fork) L'heure affichée avec du texte sous la forme d'une grille  
-  - https://github.com/ARKANYOTA/fr-grid-clock-screensaver
-- **Venal** : Vlc player on terminal  
-  - https://github.com/ARKANYOTA/venal  
+  - **Galaxy Brain** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/GalaxyBrainValidator): Valide l'achievement Galaxy Brain en utilisant 2 comptes Github
+  - **DrawOnGithubActivity** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/DrawOnGithubActivity): Permet de dessiner sur le graphe des activités de Github a partir d'une image
+  - **Coauthored** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/CoauthoredValidator): Valide l'achievement Coauthored
+- **RayMarchingC** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/RayMarchingC): Un Ray Marching écrit en C
+- **Fr Grid Clock** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/fr-grid-clock-screensaver): (Fork) L'heure affichée avec du texte sous la forme d'une grille  
+- **Venal** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/venal): Vlc player on terminal  
 - **ArkanYotaGame** : Jeu en ligne de commande en Python (projet abandonné)  
   - https://pypi.org/project/ArkanYotaGame/  
-- **Omega** : Un fork de Omega (menu pour changer la couleur de la led)  
-  - https://github.com/ARKANYOTA/Omega
-- **Clavier Morse Arduino**: Un clavier à un seul bouton pour écrire du morse sur Arduino
-  - https://github.com/ARKANYOTA/ArduinoMorseKeyboard
-- **Proof Tree Ocaml**: Faire des arbres de dérivations, et les rendre en LaTeX.
-  - https://github.com/ARKANYOTA/ProofTreeOcaml
-- **Doomineur**: Faire un démineur à la Doom (projet abandonné, c'est un raycasting)
-  - https://github.com/PouletRaPHOO/Doomineur
-
+- **Omega** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/Omega): Un fork de Omega (menu pour changer la couleur de la led)  
+- **Clavier Morse Arduino** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ArduinoMorseKeyboard): Un clavier à un seul bouton pour écrire du morse sur Arduino
+- **Proof Tree Ocaml** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ProofTreeOcaml): Faire des arbres de dérivations, et les rendre en LaTeX.
+- **Doomineur** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/PouletRaPHOO/Doomineur)
+: Faire un démineur à la Doom (projet abandonné, c'est un raycasting)
 
 [](https://github.com/ARKANYOTA/Des_mineurs)
 [](https://github.com/ARKANYOTA/NSIMorpion)
