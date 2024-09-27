@@ -28,11 +28,11 @@
 ### Projets :
 
 #### Jeux:
-- **Globs** [<img width="18" alt="itchio" src="https://cdn.simpleicons.org/itchdotio/_/_"/>](https://yolwoocle.itch.io/globs) [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff"/>](https://github.com/ARKANYOTA/gmtk2024): Jeu pour la game Jam GMTK 2024  
-- **Chaser of Dawn** [<img width="18" alt="ludum-dare" src="https://ldjam.com/favicon.ico"/>](https://ldjam.com/events/ludum-dare/47/chaser-of-dawn): Jeu pour la game Jam Ludum Dare 47 en Pico 8  
-- **Anchors & Miners** [<img width="18" alt="ludum-dare" src="https://ldjam.com/favicon.ico"/>]([https://ldjam.com/events/ludum-dare/47/chaser-of-dawn](https://ldjam.com/events/ludum-dare/48/anchors-miners)): Jeu pour la game Jam Ludum Dare 48 en Pico 8  
-- **OctoBoom** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ludumdare49) [<img width="18" alt="ludum-dare" src="https://ldjam.com/favicon.ico"/>]([https://ldjam.com/events/ludum-dare/47/chaser-of-dawn](https://ldjam.com/events/ludum-dare/49/octoboom)): Jeu pour la game Jam Ludum Dare 49 en Löve
- 
+- **Globs** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff"/>](https://github.com/ARKANYOTA/gmtk2024) [<img width="18" alt="itchio" src="https://cdn.simpleicons.org/itchdotio/_/_"/>](https://yolwoocle.itch.io/globs): Jeu pour la game Jam GMTK 2024  
+- **Chaser of Dawn** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ludumdare47) [<img width="18" alt="itchio" src="https://cdn.simpleicons.org/itchdotio/_/_"/>](https://yolwoocle.itch.io/chaser-of-dawn) [<img width="18" alt="ludum-dare" src="https://ldjam.com/favicon.ico"/>](https://ldjam.com/events/ludum-dare/47/chaser-of-dawn): Jeu pour la game Jam Ludum Dare 47 en Pico 8  
+- **OctoBoom** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ludumdare49) [<img width="18" alt="itchio" src="https://cdn.simpleicons.org/itchdotio/_/_"/>](https://yolwoocle.itch.io/octoboom) [<img width="18" alt="ludum-dare" src="https://ldjam.com/favicon.ico"/>](https://ldjam.com/events/ludum-dare/49/octoboom): Jeu pour la game Jam Ludum Dare 49 en Löve
+- **Anchors & Miners** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/Yolwoocle/LudumDare48_DeeperAndDeeper) [<img width="18" alt="itchio" src="https://cdn.simpleicons.org/itchdotio/_/_"/>](https://yolwoocle.itch.io/anchorsandminers) [<img width="18" alt="ludum-dare" src="https://ldjam.com/favicon.ico"/>](https://ldjam.com/events/ludum-dare/48/anchors-miners): Jeu pour la game Jam Ludum Dare 48 en Pico 8  
+
 #### Others Projets:
 - **Venal** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/venal): Vlc player on terminal  
 - **ASM Minesweeper** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ASM-Minesweeper): Un jeu de démineur réalisé en Assembleur x86-64
