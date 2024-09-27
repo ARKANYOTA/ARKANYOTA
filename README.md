@@ -27,6 +27,13 @@
 
 ### Projets :
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github">
+  <img width="18" alt="github" src="https://cdn.simpleicons.org/github">
+</picture>
+
+
 #### Jeux:
 - **Globs** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff"/>](https://github.com/ARKANYOTA/gmtk2024) [<img width="18" alt="itchio" src="https://cdn.simpleicons.org/itchdotio/_/_"/>](https://yolwoocle.itch.io/globs): Jeu pour la game Jam GMTK 2024  
 - **Chaser of Dawn** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ludumdare47) [<img width="18" alt="itchio" src="https://cdn.simpleicons.org/itchdotio/_/_"/>](https://yolwoocle.itch.io/chaser-of-dawn) [<img width="18" alt="ludum-dare" src="https://ldjam.com/favicon.ico"/>](https://ldjam.com/events/ludum-dare/47/chaser-of-dawn): Jeu pour la game Jam Ludum Dare 47 en Pico 8  
