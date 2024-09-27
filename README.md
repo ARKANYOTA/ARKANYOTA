@@ -9,17 +9,19 @@
 ### Mon site : **https://arkanyota.github.io**
   
 ### Comment me contacter :  
+
   
-[<img src="Images/github.svg" alt="drawing"  width="30px"/>](http://github.com/ARKANYOTA/)
-[<img src="Images/safari.svg" alt="drawing" width="30px"/>](http://arkanyota.github.io/)
-<img src="Images/discord.svg" alt="drawing" width="30px"/>
-[<img src="Images/youtube.svg" alt="drawing" width="30px"/>](https://www.youtube.com/channel/UC44p7IFHS8WK7CF3zSv38QA/)
-[<img src="Images/instagram.svg" alt="drawing" width="30px"/>](http://www.instagram.com/arkanyota/)
-[<img src="Images/twitter.svg" alt="drawing" width="30px"/>](https://twitter.com/arkanyota/)
-[<img src="Images/email.svg" alt="drawing" width="30px"/>](mailto:arkanyota@icloud.com)
-[<img src="Images/gmail.svg" alt="drawing" width="30px"/>](mailto:lesarktime@gmail.com)
-[<img src="Images/itch_io.svg" alt="drawing" width="30px"/>](https://arkanyota.itch.io/)
-[<img src="Images/twitch.svg" alt="drawing" width="30px"/>](https://www.twitch.tv/arkanyota)
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github"><img width="30" alt="github" src="https://cdn.simpleicons.org/github"></picture>](http://github.com/ARKANYOTA/)
+[<img width="30" alt="safari" src="https://cdn.simpleicons.org/safari">](http://arkanyota.github.io/)
+<img width="30" alt="discord" src="https://cdn.simpleicons.org/discord">
+[<img width="30" alt="youtube" src="https://cdn.simpleicons.org/youtube">](https://www.youtube.com/channel/UC44p7IFHS8WK7CF3zSv38QA/)
+[<img width="30" alt="instagram" src="https://cdn.simpleicons.org/instagram">](http://www.instagram.com/arkanyota/)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x"><img width="30" alt="x" src="https://cdn.simpleicons.org/x"></picture>](https://twitter.com/arkanyota/)
+[<img width="30" alt="mail" src="https://cdn.simpleicons.org/mailboxdotorg">](mailto:arkanyota@icloud.com)
+[<img width="30" alt="gmail" src="https://cdn.simpleicons.org/gmail">](mailto:lesarktime@gmail.com)
+[<img width="30" alt="itchdotio" src="https://cdn.simpleicons.org/itchdotio">](https://arkanyota.itch.io/)
+[<img width="30" alt="twitch" src="https://cdn.simpleicons.org/twitch">](https://www.twitch.tv/arkanyota)
   
 ### Langages utilisés (et éditeurs):  
 [![My Skills](https://skillicons.dev/icons?i=py,c,ocaml,cpp,blender,md,html,css,js,latex,regex,sqlite,bash)](https://arkanyota.github.io)
