@@ -38,8 +38,8 @@
 - **ASM Minesweeper** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ASM-Minesweeper): Un jeu de démineur réalisé en Assembleur x86-64
 - **RayMarchingC** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/RayMarchingC): Un Ray Marching écrit en C
 - **Doomineur** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/PouletRaPHOO/Doomineur): Faire un démineur à la Doom (projet abandonné, c'est un raycasting)
-- **ArkanYotaGame** [<img width="18" alt="github" src="https://cdn.simpleicons.org/pypi/_/_" />](https://pypi.org/project/ArkanYotaGame/): Jeu en ligne de commande en Python (projet abandonné)
-- **Clavier Morse Arduino** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ArduinoMorseKeyboard): Un clavier à un seul bouton pour écrire du morse sur Arduino
+- **ArkanYotaGame** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ArkanYotaGame) [<img width="18" alt="github" src="https://cdn.simpleicons.org/pypi/_/_" />](https://pypi.org/project/ArkanYotaGame/): Jeu en ligne de commande en Python (projet abandonné)
+- **Clavier Morse Arduino** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ArduinoMorseKeyboard) [<img width="18" alt="reddit" src="https://cdn.simpleicons.org/reddit/_/_"/>](https://www.reddit.com/r/arduino/comments/jyebh5/me_and_my_friend_uarkanyota_made_a_functional): Un clavier à un seul bouton pour écrire du morse sur Arduino
 - **Proof Tree Ocaml** [<img width="18" alt="github" src="https://cdn.simpleicons.org/github/_/ffffff" />](https://github.com/ARKANYOTA/ProofTreeOcaml): Faire des arbres de dérivations, et les rendre en LaTeX.
 
 #### **GitHub Achievement Validator**:
@@ -61,14 +61,8 @@
 [Write-Ups: ICI](https://github.com/ARKANYOTA/write-ups)
 
 ### Autres
-<div align="left">
-  <a href="https://github.com/ARKANYOTA?tab=overview&from=2042-12-01&to=2042-12-31" target="_blank">
-    <img src="https://github.com/MaximCosta/MaximCosta/blob/main/assets/42.png" width="52" alt="42 logo"  />
-  </a>
-  <a href="https://github.com/MaximCosta" target="_blank">
-    <img src="https://github.com/MaximCosta/MaximCosta/blob/main/assets/friends.png" width="52" alt="friends logo"  />
-  </a>
-    <a href="https://github.com/torvalds?achievement=pair-extraordinaire&tab=achievements" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" width="52" alt="friends logo"  />
-  </a>
-</div>
+
+[<img src="https://github.com/MaximCosta/MaximCosta/blob/main/assets/42.png" width="52" alt="42 logo"  />](https://github.com/ARKANYOTA?tab=overview&from=2042-12-01&to=2042-12-31)
+[<img src="https://github.com/MaximCosta/MaximCosta/blob/main/assets/friends.png" width="52" alt="friends logo"  />](https://github.com/MaximCosta) [<img src="https://skillicons.dev/icons?i=linux" width="52" alt="friends logo"  />](https://github.com/torvalds?achievement=pair-extraordinaire&tab=achievements)
+
+<!-- Icons: simpleicons.org -->
