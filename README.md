@@ -10,22 +10,23 @@
   
 ### Comment me contacter :  
 
-  
+[<img src="Images/github.svg" alt="drawing" width="48px"/>](http://github.com/ARKANYOTA/)
+[<img src="Images/safari.svg" alt="drawing" width="48px"/>](http://arkanyota.github.io/)
+<img src="Images/discord.svg" alt="drawing" width="48px"/>
+[<img src="Images/youtube.svg" alt="drawing" width="48px"/>](https://www.youtube.com/channel/UC44p7IFHS8WK7CF3zSv38QA/)
+[<img src="Images/instagram.svg" alt="drawing" width="48px"/>](http://www.instagram.com/arkanyota/)
+[<img src="Images/twitter.svg" alt="drawing" width="48px"/>](https://twitter.com/arkanyota/)
+[<img src="Images/email.svg" alt="drawing" width="48px"/>](mailto:arkanyota@icloud.com)
+[<img src="Images/gmail.svg" alt="drawing" width="48px"/>](mailto:lesarktime@gmail.com)
+[<img src="Images/itch_io.svg" alt="drawing" width="48px"/>](https://arkanyota.itch.io/)
+[<img src="Images/twitch.svg" alt="drawing" width="48px"/>](https://www.twitch.tv/arkanyota)
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github"><img width="30" alt="github" src="https://cdn.simpleicons.org/github"></picture>](http://github.com/ARKANYOTA/)
-[<img width="30" alt="safari" src="https://cdn.simpleicons.org/safari">](http://arkanyota.github.io/)
-<img width="30" alt="discord" src="https://cdn.simpleicons.org/discord">
-[<img width="30" alt="youtube" src="https://cdn.simpleicons.org/youtube">](https://www.youtube.com/channel/UC44p7IFHS8WK7CF3zSv38QA/)
-[<img width="30" alt="instagram" src="https://cdn.simpleicons.org/instagram">](http://www.instagram.com/arkanyota/)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x"><img width="30" alt="x" src="https://cdn.simpleicons.org/x"></picture>](https://twitter.com/arkanyota/)
-[<img width="30" alt="mail" src="https://cdn.simpleicons.org/mailboxdotorg">](mailto:arkanyota@icloud.com)
-[<img width="30" alt="gmail" src="https://cdn.simpleicons.org/gmail">](mailto:lesarktime@gmail.com)
-[<img width="30" alt="itchdotio" src="https://cdn.simpleicons.org/itchdotio">](https://arkanyota.itch.io/)
-[<img width="30" alt="twitch" src="https://cdn.simpleicons.org/twitch">](https://www.twitch.tv/arkanyota)
   
 ### Langages utilisés (et éditeurs):  
-[![My Skills](https://skillicons.dev/icons?i=py,c,ocaml,cpp,blender,md,html,css,js,latex,regex,sqlite,bash)](https://arkanyota.github.io)
-[![My Editors](https://skillicons.dev/icons?i=linux,vim,idea,git,github,discord,godot)](https://arkanyota.github.io)
+
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="48px"/> <img src="https://skillicons.dev/icons?i=c" alt="c" width="48px"/> <img src="https://skillicons.dev/icons?i=ocaml" alt="ocaml" width="48px"/> <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="48px"/> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="48px"/> <img src="https://skillicons.dev/icons?i=md" alt="md" width="48px"/> <img src="https://skillicons.dev/icons?i=html" alt="html" width="48px"/> <img src="https://skillicons.dev/icons?i=css" alt="css" width="48px"/> <img src="https://skillicons.dev/icons?i=js" alt="js" width="48px"/> <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="48px"/> <img src="https://skillicons.dev/icons?i=regex" alt="regex" width="48px"/> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="48px"/> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="48px"/>
+
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48px"/> <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="48px"/> <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="48px"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="48px"/> <img src="https://skillicons.dev/icons?i=github" alt="github" width="48px"/> <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="48px"/> <img src="https://skillicons.dev/icons?i=godot" alt="godot" width="48px"/> 
 
 ### Projets :
 #### Jeux:
