@@ -4,7 +4,7 @@
 - Langue : Français
 - Contact sur Discord : [arkanyota](https://discord.com/users/315241140464910349)
 - Contact sur Mail: [arkanyota@icloud.com](mailto:arkanyota@icloud.com)
-- Ecole : [ENSEEIHT](https://enseeiht.fr)
+- Ecole : [ENSEEIHT](https://www.enseeiht.fr/fr/index.html))
 
 ### Mon site : **https://arkanyota.github.io**
   
