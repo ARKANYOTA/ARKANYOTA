@@ -6,12 +6,12 @@
 - Contact sur Mail: [arkanyota@icloud.com](mailto:arkanyota@icloud.com)
 - Ecole : [ENSEEIHT](https://www.enseeiht.fr/fr/index.html)
 
-### Mon site : **https://arkanyota.github.io**
+### Mon site : [**https://arkanyota.com**](https://arkanyota.com/)
   
 ### Comment me contacter :  
 
 [<img src="Images/github.svg" alt="drawing" width="48px"/>](http://github.com/ARKANYOTA/)
-[<img src="Images/safari.svg" alt="drawing" width="48px"/>](http://arkanyota.github.io/)
+[<img src="Images/safari.svg" alt="drawing" width="48px"/>](http://arkanyota.com/)
 <img src="Images/discord.svg" alt="drawing" width="48px"/>
 [<img src="Images/youtube.svg" alt="drawing" width="48px"/>](https://www.youtube.com/channel/UC44p7IFHS8WK7CF3zSv38QA/)
 [<img src="Images/instagram.svg" alt="drawing" width="48px"/>](http://www.instagram.com/arkanyota/)
